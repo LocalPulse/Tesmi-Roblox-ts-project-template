@@ -48,7 +48,7 @@
     "@rbxts/lapis": "^0.3.4",
     "@rbxts/lerp-functions": "^1.0.2",
     "@rbxts/log": "^0.6.3",
-    "@rbxts/melody": "^0.1.8",
+    "@rbxts/melody": "^0.3.0",
     "@rbxts/message-templates": "^0.3.2",
     "@rbxts/object-utils": "^1.0.4",
     "@rbxts/observer-charm": "^0.1.7",
