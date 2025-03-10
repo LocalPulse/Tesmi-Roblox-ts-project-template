@@ -39,7 +39,7 @@
     "@rbxts/altmake": "^0.1.5",
     "@rbxts/better-refx": "^0.3.2",
     "@rbxts/character-promise": "^1.0.2",
-    "@rbxts/charm": "^0.5.0",
+    "@rbxts/charm": "^0.10.0",
     "@rbxts/charm-payload-converter": "^1.0.0",
     "@rbxts/commander": "^0.4.0-dev-180984b",
     "@rbxts/flamework-binary-serializer": "^0.5.1",
