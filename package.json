@@ -53,7 +53,7 @@
     "@rbxts/object-utils": "^1.0.4",
     "@rbxts/observer-charm": "^0.1.7",
     "@rbxts/pretty-react-hooks": "^0.6.0",
-    "@rbxts/rbx-better-signal": "^1.1.0",
+    "@rbxts/rbx-better-signal": "^2.0.0",
     "@rbxts/react": "^0.4.0",
     "@rbxts/react-reflex": "^0.3.4",
     "@rbxts/react-roblox": "^0.4.0",
