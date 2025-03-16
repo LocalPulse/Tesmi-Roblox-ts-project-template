@@ -56,7 +56,7 @@
     "@rbxts/rbx-better-signal": "^1.1.0",
     "@rbxts/react": "^0.4.0",
     "@rbxts/react-reflex": "^0.3.4",
-    "@rbxts/react-roblox": "^0.4.0",
+    "@rbxts/react-roblox": "^17.0.0",
     "@rbxts/react-tooltips": "^1.1.6",
     "@rbxts/reflex": "^4.3.1",
     "@rbxts/reflex-class": "^1.2.8",
